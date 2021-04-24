@@ -1,4 +1,4 @@
-# Crime-statistics-in-Victoria-2016-20
+# Crime statistics in Victoria 2016-20
 A dashboard is created on the Crime statistics in Victoria between 2016-2020. 
 It was done as a part of my Data visualisation course assignment at RMIT Melbourne.
 The dashboard covers the following visualisation:
